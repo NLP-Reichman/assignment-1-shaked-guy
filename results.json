@@ -10,9 +10,9 @@
   },
   "test_eval": {
     "en_on_en": 18.15,
-    "en_on_fr": 41.09,
-    "en_on_tl": 45.55,
-    "en_on_nl": 40.59
+    "en_on_fr": 38.38,
+    "en_on_tl": 44.97,
+    "en_on_nl": 40.16
   },
   "test_match": {
     "df_shape": [
@@ -20,16 +20,16 @@
       4
     ],
     "en_en_3": 18.150274413109575,
-    "en_tl_3": 45.54563728229227,
-    "en_nl_3": 40.586768512719466
+    "en_tl_3": 44.971122832304026,
+    "en_nl_3": 40.164956218093714
   },
   "test_generate": {
-    "english_2_gram": "I amell1Gige omyo & he'",
-    "english_3_gram": "I amebompirs ans appree",
-    "english_4_gram": "I Lover. Zo Are froming #",
-    "spanish_2_gram": "Soy ' Dusos qups  en c",
-    "spanish_3_gram": "Soy ensanta oto el 200",
-    "french_2_gram": "Je suis jeitpu s a male s:",
-    "french_3_gram": "Je suistreil Her lon in vs"
+    "english_2_gram": "I amell1Gige omyo & he't",
+    "english_3_gram": "I amebompirs ans appree ",
+    "english_4_gram": "I Lover. Zo Are froming #M",
+    "spanish_2_gram": "Soy ' Dusos qups  en ce",
+    "spanish_3_gram": "Soy ensanta oto el 200 ",
+    "french_2_gram": "Je suis jeitpu s a male s:/",
+    "french_3_gram": "Je suistreil Her lon in vs "
   }
 }
